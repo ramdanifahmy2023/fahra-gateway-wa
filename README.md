@@ -153,6 +153,7 @@ Backup disimpan di `data/backups/`, terenkripsi dan ber-checksum. Simpan `BACKUP
 - [docs/ADR-001-durable-queue.md](docs/ADR-001-durable-queue.md) — alasan PostgreSQL menjadi sumber antrean durable.
 - [docs/API.md](docs/API.md) — kontrak admin API dan bridge internal OpenClaw.
 - [docs/BACKUP-RESTORE.md](docs/BACKUP-RESTORE.md) — format artifact dan prosedur recovery.
+- [docs/GITHUB-BACKUP.md](docs/GITHUB-BACKUP.md) — alur menyimpan setiap update project ke GitHub.
 - [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) — diagnosis kegagalan.
 - [docs/SECURITY.md](docs/SECURITY.md) — trust boundary dan secret handling.
 - [database/README.md](database/README.md) — schema, migration, dan queue semantics.
