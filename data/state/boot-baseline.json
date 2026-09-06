@@ -1,0 +1,18 @@
+{
+  "database": {
+    "protocol": "postgresql:",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "database": "openclaw_gateway"
+  },
+  "minimum": {
+    "whatsapp_auth_state": 1000
+  },
+  "lastHealthy": {
+    "whatsapp_messages": 733,
+    "whatsapp_groups": 4,
+    "whatsapp_auth_state": 46599
+  },
+  "createdAt": "2026-08-13T09:18:21.404Z",
+  "updatedAt": "2026-08-26T04:39:55.370Z"
+}

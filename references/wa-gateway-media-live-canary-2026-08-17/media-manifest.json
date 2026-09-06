@@ -1,0 +1,20 @@
+{
+  "schema": "wa.media.self-canary.v1",
+  "files": [
+    {
+      "name": "canary-video.mp4",
+      "bytes": 18371,
+      "sha256": "f9d09538b6ae2c3af86b646cc39b1ee8cb5e8755a604d190829d52b81653d397"
+    },
+    {
+      "name": "canary-audio.mp3",
+      "bytes": 15552,
+      "sha256": "7980b13ee478affe9435b46ad56394bda646f3903f9b61647a562d1cf04754fa"
+    },
+    {
+      "name": "canary-voice.ogg",
+      "bytes": 5366,
+      "sha256": "0bbe40cd546a1e227164e6ec87391dfcf95b4d33ada051a8aff1b1f64bd9e869"
+    }
+  ]
+}

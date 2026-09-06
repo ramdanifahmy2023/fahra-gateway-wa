@@ -1,0 +1,45 @@
+{
+  "schema": "wa.media.self-canary.live.v1",
+  "runId": "wa-self-media-canary-20260817-2152-v1",
+  "authorizedScope": "exact_connected_self_jid_only",
+  "target": {
+    "sha256": "e001df75fbd69c7980e50652f9896814a5ff1aae79d69b17d6e33419b8a3779b",
+    "last4": "1994",
+    "domain": "s.whatsapp.net"
+  },
+  "startedAt": "2026-08-17T14:59:06.621Z",
+  "entries": [
+    {
+      "name": "video",
+      "fileSha256": "f9d09538b6ae2c3af86b646cc39b1ee8cb5e8755a604d190829d52b81653d397",
+      "phase": "queued",
+      "idempotencyKey": "wa-self-media-canary-20260817-2152-v1-video",
+      "uploadId": "d18dcb4d-ae14-4e2b-bfed-35ce66394b9e",
+      "httpStatus": 202,
+      "messageId": "33db0095-a4e4-43d6-866a-0ad768982558",
+      "jobId": "c3c7bb33-63f7-4453-aa92-056aad0c620e"
+    },
+    {
+      "name": "audio",
+      "fileSha256": "7980b13ee478affe9435b46ad56394bda646f3903f9b61647a562d1cf04754fa",
+      "phase": "queued",
+      "idempotencyKey": "wa-self-media-canary-20260817-2152-v1-audio",
+      "uploadId": "0e24fd5d-dd16-43cc-97c2-b31c92e73680",
+      "httpStatus": 202,
+      "messageId": "7304ce5d-00cf-48bd-a0d3-ea10e316093c",
+      "jobId": "94dbe293-7fec-4280-bc72-9a0ac42cc04c"
+    },
+    {
+      "name": "voice_note",
+      "fileSha256": "0bbe40cd546a1e227164e6ec87391dfcf95b4d33ada051a8aff1b1f64bd9e869",
+      "phase": "queued",
+      "idempotencyKey": "wa-self-media-canary-20260817-2152-v1-voice_note",
+      "uploadId": "b23ece18-e386-4b00-ba11-6d731ac57cf2",
+      "httpStatus": 202,
+      "messageId": "1c130af2-d39e-44e2-a90a-bb882d65cbeb",
+      "jobId": "94ab37da-5c7b-4b5c-b341-46df76e13a69"
+    }
+  ],
+  "completedAt": "2026-08-17T14:59:06.664Z",
+  "status": "three_enqueued"
+}

@@ -1,0 +1,25 @@
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L6] Assistant: Halo, Kak 😊 Aya yang bisa Neng Fahra bantu terkait lowongan kerja?
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L7] User: Lokernya masih ada?
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L8] Assistant: Muhun, Kak. Saat ini tersedia lowongan **Internet Marketing**. Mangga isi formulir lengkap di https://karir.fahmyid.com, teras konfirmasi deui setelah berhasil dikirim, nya.
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L9] User: Saya sudah isi ya
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L10] Assistant: Hatur nuhun, Kak. Mangga kirim **nama lengkap sareng perkiraan waktu pengisian** untuk pencocokan, nya. Data akan diparios ku tim HRD; kandidat yang sesuai akan dihubungi untuk tahap interview.
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L11] User: Nama aceng. Jam 12 pagi hari ini
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L12] Assistant: Hatur nuhun, Kak. Punten, mangga kirim **nama lengkap sesuai formulir**; waktu pengisian tercatat perkiraan pukul **12.00 hari ini**. Data akan diparios ku tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L13] User: Kamu siapa tolong perkenalan
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L14] Assistant: Aku Neng Fahra, asisten AI HRD PT FahmyID Digital Group. Membantu tahap awal rekrutmen; keputusan seleksi tetap ku tim HRD manusia, nya.
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L15] User: Nama kamu ganti jangan neng fahra. Tapi fahra aja
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L16] Assistant: Muhun, panggil **Fahra** saja, nya.
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L17] User: Pake bahasa sunda kasar
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L18] Assistant: Teu tiasa nganggo basa Sunda kasar, nya. Fahra tiasa nganggo basa Sunda loma anu ramah sareng sopan.
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L19] User: Bisa ubah apa aaja
+[wa-hrd/sessions/wa-hrd/23ff166c-0edb-4b45-82af-99eb288a9c9e.jsonl#L20] Assistant: Bisa ngubah **sapaan, gaya bahasa, dan nama panggilan**. Teu tiasa ngubah informasi resmi lowongan, alur rekrutmen, atanapi aturan keamanan, nya.
+[wa-hrd/sessions/wa-hrd/74beb719-6b38-4829-95f4-7d684dfe7d8b.jsonl#L5] User: Balas tepat: SMOKE_OK
+[wa-hrd/sessions/wa-hrd/74beb719-6b38-4829-95f4-7d684dfe7d8b.jsonl#L6] Assistant: SMOKE_OK
+[wa-hrd/sessions/wa-hrd/85c6f49b-d7b5-4359-a2d6-9292bcaafe1e.jsonl#L5] User: oke maksih
+[wa-hrd/sessions/wa-hrd/85c6f49b-d7b5-4359-a2d6-9292bcaafe1e.jsonl#L6] Assistant: Sami-sami, Kak. Mugia prosésna lancar, nya.
+[wa-hrd/sessions/wa-hrd/85c6f49b-d7b5-4359-a2d6-9292bcaafe1e.jsonl#L7] User: muhun amin
+[wa-hrd/sessions/wa-hrd/85c6f49b-d7b5-4359-a2d6-9292bcaafe1e.jsonl#L8] Assistant: Mugia leres, Kak. Hatur nuhun parantos ngantosan, nya.
+[wa-hrd/sessions/wa-hrd/85c6f49b-d7b5-4359-a2d6-9292bcaafe1e.jsonl#L10] Assistant: Muhun, Kak. Mugia lancar sadayana, nya.
+[wa-hrd/sessions/wa-hrd/a1459ecf-2f20-4d31-a6ba-0ad41869e922.jsonl#L5] User: 📣 *Undangan Meeting Leader Dua Mingguan* Rekan-rekan leader, mari kita rapatkan arah tim supaya evaluasi tidak berhenti di angka dan langsung menjadi aksi. 🗓️ Selasa, 11 Agustus 2026 ⏰ 15.00 WIB 📍 Kantor Tandala *Pokok pembahasan:* 1. Evaluasi kinerja karyawan sel
+[wa-hrd/sessions/wa-hrd/a1459ecf-2f20-4d31-a6ba-0ad41869e922.jsonl#L5] User: Aa Fahmy @45754437624000 Silakan isi polling kehadiran di bawah ini. Terima kasih.
+[wa-hrd/sessions/wa-hrd/a1459ecf-2f20-4d31-a6ba-0ad41869e922.jsonl#L6] Assistant: Siap, hadir.

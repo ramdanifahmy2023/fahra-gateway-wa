@@ -1,0 +1,2 @@
+55a2f9db1670d114f84757479aa58fd536e8d94eaccc7efd76be7f80c4fa770f  ocgw-brand-kit.tar.gz
+840bf727f049e021a020a7b6bfc529a2d535bcce04635fd38015d8bc09b75f61  ocgw-brand-kit.zip

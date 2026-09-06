@@ -1,0 +1,4 @@
+[wa-hrd/sessions/wa-hrd/e593bc22-7aed-4e37-aca0-31394f0887c3.jsonl#L5] User: Halo kak, Selamat malam
+[wa-hrd/sessions/wa-hrd/e593bc22-7aed-4e37-aca0-31394f0887c3.jsonl#L6] Assistant: Selamat malam, Kak. Ada yang bisa dibantu terkait informasi lowongan atau pendaftaran kerja di PT FahmyID Digital Group?
+[wa-hrd/sessions/wa-hrd/e593bc22-7aed-4e37-aca0-31394f0887c3.jsonl#L7] User: apakah ada lowongan pekerjaan
+[wa-hrd/sessions/wa-hrd/e593bc22-7aed-4e37-aca0-31394f0887c3.jsonl#L8] Assistant: Muhun, Kak. Saat ini tersedia lowongan untuk Divisi Marketing Digital dan AI Content Creator. Mangga daftar lengkap di https://karir.fahmyid.com, lalu konfirmasi deui setelah formulir terkirim, nya.

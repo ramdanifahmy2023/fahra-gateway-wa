@@ -1,0 +1,19 @@
+OPENCLAW WHATSAPP GATEWAY: BRAND KIT
+
+Motto: Local by default. Reliable by design.
+Descriptor: Local-first Baileys gateway for secure WhatsApp automation.
+
+Use official SVG/PNG exports. Do not redraw from screenshots.
+
+Colors:
+BG #0C111B
+Panel #101724
+Ink #F2F6FA
+Muted #94A3B8
+Gateway Green #20C768
+Signal Cyan #38BDF8
+Warning #F59E0B
+
+Do not rotate, stretch, recolor outside tokens, add glow/gradients, crop into a circle, or place on noisy low-contrast backgrounds.
+
+Clear space: at least 1/8 mark height. Minimum mark size: 16px.

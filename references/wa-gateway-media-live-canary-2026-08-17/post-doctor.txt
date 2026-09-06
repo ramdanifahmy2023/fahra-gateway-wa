@@ -1,0 +1,19 @@
+
+> openclaw-whatsapp-gateway@1.0.0 doctor
+> node scripts/doctor.mjs
+
+
+OpenClaw WhatsApp Gateway Doctor
+
+✓ Runtime — bun 1.3.14
+✓ Workspace — Writable, owner-only
+✓ Restore Lifecycle — Tidak ada marker restore aktif
+✓ Database — Connected, schema 6/6 valid; tidak ada marker transaction pool pada URL (deteksi best-effort)
+✓ Redis — PostgreSQL persistent queue fallback
+✓ WhatsApp — Running; koneksi connected
+✓ OpenClaw — Reachable (HTTP 200)
+✓ Gateway API — HTTP 200
+✓ Dashboard — HTTP 200
+✓ Cloudflare Tunnel — Connected ke fahragateway.chatkulaku.my.id dengan cloudflared 2026.7.3 (HTTP 200)
+
+Semua pemeriksaan lulus.

@@ -1,0 +1,55 @@
+{
+    "count": 3,
+    "schema": "wa.media.self-canary.verify.v1",
+    "uploads": [
+        {
+            "status": "consumed",
+            "mimeType": "video/mp4",
+            "sizeBytes": 18371
+        },
+        {
+            "status": "consumed",
+            "mimeType": "audio/mpeg",
+            "sizeBytes": 15552
+        },
+        {
+            "status": "consumed",
+            "mimeType": "audio/ogg",
+            "sizeBytes": 5366
+        }
+    ],
+    "messages": [
+        {
+            "kind": "video",
+            "status": "sent",
+            "attempts": 1,
+            "hasError": false,
+            "exactSelf": true,
+            "queueStatus": "completed",
+            "waMessageIdPresent": true
+        },
+        {
+            "kind": "audio",
+            "status": "sent",
+            "attempts": 1,
+            "hasError": false,
+            "exactSelf": true,
+            "queueStatus": "completed",
+            "waMessageIdPresent": true
+        },
+        {
+            "kind": "voice_note",
+            "status": "sent",
+            "attempts": 1,
+            "hasError": false,
+            "exactSelf": true,
+            "queueStatus": "completed",
+            "waMessageIdPresent": true
+        }
+    ],
+    "exactSelf": true,
+    "queueCompleted": 3,
+    "acceptedStatuses": 3,
+    "waMessageIdsPresent": 3,
+    "distinctIdempotencyKeys": 3
+}

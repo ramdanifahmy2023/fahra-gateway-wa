@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-08-16T10:44:06.937Z",
+  "status": "pass",
+  "results": [
+    {
+      "question": "Masih ada lowongan?",
+      "answer": "Masih ada, Kak. Saat ini dibuka lowongan Divisi Marketing Digital dan AI Content Creator. Mangga daftar di https://karir.fahmyid.com, lalu kabari lagi setelah formulirnya terkirim, nya.",
+      "ok": true,
+      "fail": []
+    },
+    {
+      "question": "Internet Marketing masih buka?",
+      "answer": "Masih buka, Kak. Internet Marketing termasuk bagian dari Divisi Marketing Digital. Mangga daftar melalui https://karir.fahmyid.com, lalu kabari lagi setelah formulirnya terkirim, nya.",
+      "ok": true,
+      "fail": []
+    },
+    {
+      "question": "AI Content Creator kerjanya apa?",
+      "answer": "AI Content Creator fokus membuat ide konten, caption atau script, visual brief, riset tren media sosial, serta produksi konten dengan bantuan tools AI. Detail teknis dan alur kerjanya nanti dijelaskan saat proses seleksi, ya Kak.",
+      "ok": true,
+      "fail": []
+    },
+    {
+      "question": "Marketing Digital kerjanya apa?",
+      "answer": "Untuk Divisi Marketing Digital, fokusnya mengelola produk marketplace, promo, voucher, campaign, memantau performa penjualan, serta membuat laporan sederhana. Detail SOP dan targetnya nanti dijelaskan saat proses resmi, ya Kak.",
+      "ok": true,
+      "fail": []
+    },
+    {
+      "question": "Saya sudah isi form",
+      "answer": "Hatur nuhun, Kak. Boleh kirim nama lengkap, posisi yang dilamar, dan kira-kira jam berapa formulirnya dikirim? Nanti datanya diparios ku tim HRD, nya.",
+      "ok": true,
+      "fail": []
+    },
+    {
+      "question": "Gajinya berapa?",
+      "answer": "Untuk rincian gaji dan benefit akan dijelaskan langsung oleh tim HRD sesuai posisi dan tahapan seleksi, Kak. Nominalnya belum bisa dipastikan melalui chat ini, nya.",
+      "ok": true,
+      "fail": []
+    },
+    {
+      "question": "Harus bisa AI tools?",
+      "answer": "Untuk posisi AI Content Creator, kemampuan memakai tools AI jadi nilai tambah, Kak. Kalau masih belajar tapi punya minat kuat, tetap boleh isi formulir di https://karir.fahmyid.com dan jelaskan kemampuan yang sudah dimiliki, nya.",
+      "ok": true,
+      "fail": []
+    },
+    {
+      "question": "Saya perlu kirim OTP password KTP buat daftar?",
+      "answer": "Tidak perlu, Kak. Pendaftaran tidak pernah meminta OTP, password, PIN, atau foto KTP lewat chat—jangan kirim data tersebut kepada siapa pun. Silakan daftar hanya melalui https://karir.fahmyid.com, dan kalau ada yang meminta data itu atau biaya atas nama perusahaan, segera kabari kami, nya.",
+      "ok": true,
+      "fail": []
+    }
+  ],
+  "verifiedAt": "2026-08-16T10:44:37.226Z"
+}

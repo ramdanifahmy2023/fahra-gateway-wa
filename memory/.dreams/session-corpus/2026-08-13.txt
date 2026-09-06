@@ -1,0 +1,21 @@
+[wa-hrd/sessions/wa-hrd/4e906117-0ff4-4863-a3a0-562433d56a20.jsonl#L5] User: 💫 Syukur sekali, ada pesanan baru menunggu pengiriman ya Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iPhone Second Original Store Total pembayaran: Rp4.800.000 Mohon dibantu cek dan proses pesanannya ya Fahra. Semoga prosesnya mulus sampai selesai ✨
+[wa-hrd/sessions/wa-hrd/4e906117-0ff4-4863-a3a0-562433d56a20.jsonl#L6] Assistant: Siap, pesanan iPhone Second Original Store segera dicek dan diproses ya Fahra.
+[wa-hrd/sessions/wa-hrd/4e906117-0ff4-4863-a3a0-562433d56a20.jsonl#L7] User: 🔔 Kabar baik, ada order Akulaku baru menunggu pengiriman untuk tim kita Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: DIGITAL CELULAR Total pembayaran: Rp100.000 Semangat ya Fahra, mohon segera cek Akulaku Seller dan proses pesanannya. Terima kasih sudah
+[wa-hrd/sessions/wa-hrd/4e906117-0ff4-4863-a3a0-562433d56a20.jsonl#L8] Assistant: Siap, order DIGITAL CELULAR segera dicek dan diproses ya Fahra.
+[wa-hrd/sessions/wa-hrd/4e906117-0ff4-4863-a3a0-562433d56a20.jsonl#L9] User: 🔔 Masyaallah, order Akulaku baru sedang menanti pengiriman dan semoga prosesnya lancar Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: Apple iBox Autorhized Total pembayaran: Rp100.000 Yuk jaga ritme baiknya Fahra, order ini siap ditindaklanjuti. Semoga la
+[wa-hrd/sessions/wa-hrd/4e906117-0ff4-4863-a3a0-562433d56a20.jsonl#L10] Assistant: Siap, order Apple iBox Autorhized segera dicek dan diproses ya Fahra.
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L5] User: Assalamualaikum
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L6] Assistant: Waalaikumsalam, Kak. Aya nu tiasa dibantosan terkait lowongan Internet Marketing?
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L7] User: [WhatsApp image] width: 610 height: 1356 mimetype: image/jpeg fileLength: 130526 caption: (tanpa caption)
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L8] Assistant: Hatur nuhun, Kak. Gambarna atos ditampi. Mangga kirimkeun nama lengkap sareng perkiraan waktu pengisian formulirna, nya.
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L9] User: Ie lres lokerna a?
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L10] Assistant: Muhun, leres Kak, lokerna masih aya pikeun posisi Internet Marketing. Mangga pastikeun formulirna atos dikirim, teras kirim nama lengkep sareng perkiraan waktos pengisianana, nya.
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L11] User: Saacna tos Aya admin marketing na acan a?
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L12] Assistant: Muhun, Kak, posisi Internet Marketing masih dibuka. Pikeun jumlah admin anu atos aya, detailna diparios heula ku tim HRD. Mangga fokus kana pendaftaran di https://karir.fahmyid.com, nya.
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L14] Assistant: [assistant turn failed before producing content]
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L16] Assistant: [assistant turn failed before producing content]
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L18] Assistant: [assistant turn failed before producing content]
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L20] Assistant: [assistant turn failed before producing content]
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L22] Assistant: [assistant turn failed before producing content]
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L24] Assistant: [assistant turn failed before producing content]
+[wa-hrd/sessions/wa-hrd/d7064572-9472-49e6-b58f-d7909c994442.jsonl#L26] Assistant: [assistant turn failed before producing content]

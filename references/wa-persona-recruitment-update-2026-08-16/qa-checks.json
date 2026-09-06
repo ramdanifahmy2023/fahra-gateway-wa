@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-08-16T10:40:36.634Z",
+  "checks": [
+    {
+      "name": "brief has Marketing Digital",
+      "ok": true
+    },
+    {
+      "name": "brief has AI Content Creator",
+      "ok": true
+    },
+    {
+      "name": "registration link retained",
+      "ok": true
+    },
+    {
+      "name": "Internet Marketing mapped",
+      "ok": true
+    },
+    {
+      "name": "no stale sole wording",
+      "ok": true
+    },
+    {
+      "name": "salary promise blocked",
+      "ok": true
+    },
+    {
+      "name": "sensitive data blocked",
+      "ok": true
+    },
+    {
+      "name": "WA no markdown retained",
+      "ok": true
+    },
+    {
+      "name": "submitted flow asks position",
+      "ok": true
+    },
+    {
+      "name": "AI creator task terms",
+      "ok": true
+    }
+  ],
+  "status": "pass"
+}

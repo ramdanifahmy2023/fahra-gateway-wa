@@ -1,0 +1,5 @@
+[wa-hrd/sessions/wa-hrd/df426c0b-3000-457e-8273-aae69350db8c.jsonl#L5] User: [WhatsApp image] width: 720 height: 1600 mimetype: image/jpeg fileLength: 70414 caption: mohon maaf kak saya telah mengisi formulir ke pt tersebut
+[wa-hrd/sessions/wa-hrd/df426c0b-3000-457e-8273-aae69350db8c.jsonl#L6] Assistant: Hatur nuhun, Kak. Mangga kirim nama lengkap, posisi yang dilamar, serta perkiraan jam formulir dikirim, nya. Data akan diparios tim HRD.
+[wa-hrd/sessions/wa-hrd/df426c0b-3000-457e-8273-aae69350db8c.jsonl#L7] User: mohon maaf maksudnya dikirim ke kakanya??
+[wa-hrd/sessions/wa-hrd/df426c0b-3000-457e-8273-aae69350db8c.jsonl#L8] Assistant: Muhun, Kak. Cukup kirim informasinya di chat ini: nama lengkap, posisi yang dilamar, dan perkiraan jam mengisi formulir. Formulirnya tetap dikirim melalui https://karir.fahmyid.com, nya.
+[wa-hrd/sessions/wa-hrd/e144d911-0d18-44af-9d54-39591be24349.jsonl#L6] Assistant: Muhun, Kak. Hatur nuhun.

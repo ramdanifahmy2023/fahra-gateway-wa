@@ -1,0 +1,51 @@
+{
+  "name": "openclaw-whatsapp-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Workspace-local private WhatsApp gateway for OpenClaw",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "install": "node scripts/install.mjs",
+    "doctor": "node scripts/doctor.mjs",
+    "watchdogs": "node scripts/safety-watchdogs.mjs",
+    "start": "node scripts/start.mjs",
+    "stop": "node scripts/stop.mjs",
+    "restart": "node scripts/restart.mjs",
+    "status": "node scripts/status.mjs",
+    "backup": "node scripts/backup.mjs",
+    "restore": "node scripts/restore.mjs",
+    "migrate": "node scripts/migrate.mjs",
+    "build": "node scripts/build.mjs",
+    "typecheck": "npm run typecheck --workspace=@ocgw/shared && npm run typecheck --workspace=@ocgw/gateway-api && npm run typecheck --workspace=@ocgw/baileys-service && npm run typecheck --workspace=@ocgw/dashboard",
+    "lint": "npm run lint --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present && node --test scripts/lib/backup-*.test.mjs scripts/lib/status-post-idempotency.test.mjs",
+    "verify": "npm run typecheck && npm run lint && npm run test && npm run build",
+    "dev:api": "npm run dev --workspace=@ocgw/gateway-api",
+    "dev:baileys": "npm run dev --workspace=@ocgw/baileys-service",
+    "dev:dashboard": "npm run dev --workspace=@ocgw/dashboard"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/node": "^24.10.1",
+    "eslint": "^9.39.1",
+    "prettier": "^3.7.4",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.48.1",
+    "vitest": "^4.0.15"
+  },
+  "dependencies": {
+    "pm2": "7.0.3"
+  },
+  "overrides": {
+    "pm2": {
+      "js-yaml": "4.3.1"
+    }
+  }
+}

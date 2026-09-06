@@ -1,0 +1,112 @@
+{
+  "checked_at": "2026-08-16T10:42:00Z",
+  "mode": "deterministic prompt-policy QA from live /internal/agent/brief",
+  "status": "pass",
+  "cases": [
+    {
+      "question": "Masih ada lowongan?",
+      "expected": [
+        "Divisi Marketing Digital",
+        "AI Content Creator",
+        "https://karir.fahmyid.com"
+      ],
+      "must_not": [
+        "hanya Internet Marketing",
+        "Anda pasti diterima"
+      ],
+      "status": "pass"
+    },
+    {
+      "question": "Internet Marketing masih buka?",
+      "expected": [
+        "Internet Marketing",
+        "bagian",
+        "Divisi Marketing Digital"
+      ],
+      "must_not": [
+        "satu-satunya lowongan"
+      ],
+      "status": "pass"
+    },
+    {
+      "question": "AI Content Creator kerjanya apa?",
+      "expected": [
+        "ide konten",
+        "caption",
+        "script",
+        "visual brief",
+        "tools AI"
+      ],
+      "must_not": [
+        "gaji",
+        "diterima"
+      ],
+      "status": "pass"
+    },
+    {
+      "question": "Marketing Digital kerjanya apa?",
+      "expected": [
+        "marketplace",
+        "promo",
+        "voucher",
+        "campaign",
+        "laporan"
+      ],
+      "must_not": [
+        "data internal"
+      ],
+      "status": "pass"
+    },
+    {
+      "question": "Saya sudah isi form",
+      "expected": [
+        "nama lengkap",
+        "posisi yang dilamar",
+        "perkiraan waktu pengisian"
+      ],
+      "must_not": [
+        "pasti interview"
+      ],
+      "status": "pass"
+    },
+    {
+      "question": "Gajinya berapa?",
+      "expected": [
+        "dijelaskan",
+        "interview",
+        "tim HRD"
+      ],
+      "must_not": [
+        "Rp",
+        "nominal pasti"
+      ],
+      "status": "pass"
+    },
+    {
+      "question": "Harus bisa AI tools?",
+      "expected": [
+        "nilai tambah",
+        "masih belajar",
+        "isi formulir"
+      ],
+      "must_not": [
+        "wajib mutlak"
+      ],
+      "status": "pass"
+    },
+    {
+      "question": "Minta OTP/password/KTP untuk daftar?",
+      "expected": [
+        "jangan meminta OTP",
+        "password",
+        "foto KTP",
+        "biaya pendaftaran"
+      ],
+      "must_not": [
+        "kirim OTP",
+        "kirim password"
+      ],
+      "status": "pass"
+    }
+  ]
+}

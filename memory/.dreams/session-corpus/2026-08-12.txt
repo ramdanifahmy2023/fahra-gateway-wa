@@ -1,0 +1,96 @@
+[wa-hrd/sessions/wa-hrd/53db8dc0-e847-4dce-85d3-5e606748b2e0.jsonl#L5] User: @145544278208548 hadir nya
+[wa-hrd/sessions/wa-hrd/53db8dc0-e847-4dce-85d3-5e606748b2e0.jsonl#L6] Assistant: Hadir, nya.
+[wa-hrd/sessions/wa-hrd/53db8dc0-e847-4dce-85d3-5e606748b2e0.jsonl#L7] User: @145544278208548 hadir nya
+[wa-hrd/sessions/wa-hrd/53db8dc0-e847-4dce-85d3-5e606748b2e0.jsonl#L8] Assistant: Hadir, nya.
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L5] User: halo kak lokernya masih ada?
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L6] Assistant: Masih ada, Kak. Saat ini dibuka posisi Internet Marketing. Karena Kak Fahmi sudah isi formulir, boleh info perkiraan waktu pengisiannya supaya dibantu dicatat, nya.
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L7] User: job desc nya apa aja
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L8] Assistant: Tugasnya mengelola produk marketplace, update informasi produk, membantu promosi/voucher/harga, memantau performa penjualan, serta membuat laporan sederhana. Detail SOP dan target dijelaskan saat interview, Kak.
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L9] User: gaji berapa?
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L10] Assistant: Untuk nominal gaji dan bonus dijelaskan langsung saat interview, Kak. Besarannya menyesuaikan posisi, kemampuan, masa training, dan hasil pembahasan rekrutmen.
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L11] User: alamat kantornya dimana? nama perusahannya apa?
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L12] Assistant: Nama perusahaannya PT FahmyID Digital Group, lokasi kerja di Kota Tasikmalaya, Kak. Alamat lengkap diberikan melalui undangan interview resmi bagi kandidat yang lolos seleksi awal, nya.
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L13] User: oh iya kalau sambil kuliah gimana bisa gak
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L14] Assistant: Bisa dipertimbangkan kalau kegiatan kuliahnya tidak mengganggu jam kerja dan target, Kak. Kalau ada kuliah offline yang bentrok dengan jam kerja Senin–Sabtu pukul 08.00–16.00, belum bisa, nya.
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L15] User: loker ini khusus cowo/cewe?
+[wa-hrd/sessions/wa-hrd/5ecfe433-28d6-42d2-a5fb-b24716437572.jsonl#L16] Assistant: Posisi ini terbuka untuk laki-laki maupun perempuan, Kak.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L5] User: 🔔 ORDER AKULAKU — MENUNGGU PENGIRIMAN Grup: GRUP MITRA FAHRA Leader: Fahra @6281526021994 Order eligible: 1 Total pembayaran: Rp150.000 Mohon segera cek Akulaku Seller dan proses pesanannya.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L6] Assistant: Siap, segera cek Akulaku Seller dan proses 1 pesanan senilai Rp150.000.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L7] User: 🔔 ORDER AKULAKU — MENUNGGU PENGIRIMAN Grup: GRUP MITRA FAHRA Leader: Fahra @6281526021994 Order eligible: 1 Total pembayaran: Rp150.000 Mohon segera cek Akulaku Seller dan proses pesanannya.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L8] Assistant: Siap, segera diparios dan diproses.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L9] User: 🔔 ORDER AKULAKU — MENUNGGU PENGIRIMAN Grup: GRUP MITRA FAHRA Leader: Fahra @6281526021994 Order eligible: 1 Total pembayaran: Rp150.000 Mohon segera cek Akulaku Seller dan proses pesanannya.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L10] Assistant: Siap, segera cek Akulaku Seller dan proses pesanannya.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L11] User: 🔔 ORDER AKULAKU — MENUNGGU PENGIRIMAN Grup: GRUP MITRA FAHRA Leader: Fahra @6281526021994 Order eligible: 1 Total pembayaran: Rp150.000 Mohon segera cek Akulaku Seller dan proses pesanannya.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L12] Assistant: Siap, segera diparios dan diproses.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L13] User: 🔔 ORDER AKULAKU — MENUNGGU PENGIRIMAN Grup: GRUP MITRA FAHRA Leader: Fahra @6281526021994 Order eligible: 1 Total pembayaran: Rp150.000 Mohon segera cek Akulaku Seller dan proses pesanannya.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L14] Assistant: Siap, notifikasi diterima. Segera cek Akulaku Seller dan proses 1 pesanan Rp150.000.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L15] User: 🔔 ORDER AKULAKU — MENUNGGU PENGIRIMAN Grup: GRUP MITRA FAHRA Leader: Fahra @6281526021994 Order eligible: 1 Total pembayaran: Rp150.000 Mohon segera cek Akulaku Seller dan proses pesanannya.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L16] Assistant: Notifikasi diterima. Mohon segera cek Akulaku Seller dan proses pesanan.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L17] User: 🔔 ORDER AKULAKU — MENUNGGU PENGIRIMAN Grup: GRUP MITRA FAHRA Leader: Fahra @6281526021994 Order eligible: 1 Total pembayaran: Rp150.000 Mohon segera cek Akulaku Seller dan proses pesanannya.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L18] Assistant: Notifikasi diterima. Segera cek dan proses pesanan di Akulaku Seller.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L19] User: 💛 Alhamdulillah, rezeki baru datang—order menunggu pengiriman untuk segera dicek Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: WannGZ Total pembayaran: Rp150.000 Dengan penuh semangat, yuk cek dan proses pesanannya ya Fahra. Tetap semangat dan teliti ya
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L20] Assistant: Siap, segera cek dan proses pesanan toko WannGZ.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L21] User: 💛 Alhamdulillah, rezeki baru datang—order menunggu pengiriman untuk segera dicek Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: WannGZ Total pembayaran: Rp150.000 Dengan penuh semangat, yuk cek dan proses pesanannya ya Fahra. Tetap semangat dan teliti ya
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L22] Assistant: Siap, pesanan WannGZ segera diparios dan diproses.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L23] User: 💛 Alhamdulillah, rezeki baru datang—order menunggu pengiriman untuk segera dicek Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: WannGZ Total pembayaran: Rp150.000 Dengan penuh semangat, yuk cek dan proses pesanannya ya Fahra. Tetap semangat dan teliti ya
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L24] Assistant: Siap, segera cek pesanan WannGZ dan proses pengirimannya.
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L5] User: selamat sore bu,saya mau mengirim cv kerja
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L6] Assistant: Selamat sore, Kak. Mangga kirim CV-nya, lalu tetap isi formulir resmi di https://karir.fahmyid.com supaya datanya tercatat. Setelah terkirim, kabari nama lengkap dan perkiraan waktu pengisiannya, nya.
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L7] User: selamat sore bu,saya mau mengirim cv kerja
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L8] Assistant: Selamat sore, Kak. Mangga kirim CV-nya, lalu isi formulir resmi di https://karir.fahmyid.com agar datanya tercatat. Setelah berhasil dikirim, kabari lagi di sini, nya.
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L9] User: selamat sore bu,saya mau mengirim cv kerja
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L10] Assistant: Selamat sore, Kak. Mangga kirim CV-nya di sini, lalu isi formulir resmi di https://karir.fahmyid.com supaya pendaftarannya tercatat, nya.
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L11] User: selamat sore bu,saya mau mengirim cv kerja
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L12] Assistant: Selamat sore, Kak. Mangga kirim CV-nya, lalu tetap isi formulir resmi di https://karir.fahmyid.com agar lamaran tercatat. Setelah terkirim, konfirmasi lagi di sini, nya.
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L13] User: selamat sore bu,saya mau mengirim cv kerja
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L14] Assistant: Selamat sore, Kak. Mangga kirim CV-nya di sini, lalu isi formulir resmi di https://karir.fahmyid.com supaya lamaran tercatat. Setelah terkirim, kabari lagi, nya.
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L15] User: selamat sore bu,saya mau mengirim cv kerja
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L16] Assistant: Selamat sore, Kak. Mangga kirim CV-nya di sini. Supaya lamaran tercatat, isi juga formulir resmi di https://karir.fahmyid.com, lalu konfirmasi setelah terkirim, nya.
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L17] User: selamat sore bu,saya mau mengirim cv kerja
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L18] Assistant: Selamat sore, Kak. Mangga kirim CV-nya di sini, lalu lengkapi pendaftaran di https://karir.fahmyid.com agar datanya tercatat. Kabari lagi setelah formulir terkirim, nya.
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L19] User: selamat sore bu,saya mau mengirim cv kerja
+[wa-hrd/sessions/wa-hrd/ad27c34b-e258-41d5-9159-1c3649cb2674.jsonl#L20] Assistant: Selamat sore, Kak. Mangga kirim CV-nya di sini, lalu isi formulir resmi di https://karir.fahmyid.com agar lamaran tercatat. Setelah terkirim, kabari lagi, nya.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L25] User: 💛 Alhamdulillah, rezeki baru datang—order menunggu pengiriman untuk segera dicek Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: WannGZ Total pembayaran: Rp150.000 Dengan penuh semangat, yuk cek dan proses pesanannya ya Fahra. Tetap semangat dan teliti ya
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L26] Assistant: Siap, pesanan WannGZ senilai Rp150.000 segera dicek dan diproses.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L27] User: 💛 Alhamdulillah, rezeki baru datang—order menunggu pengiriman untuk segera dicek Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: WannGZ Total pembayaran: Rp150.000 Dengan penuh semangat, yuk cek dan proses pesanannya ya Fahra. Tetap semangat dan teliti ya
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L28] Assistant: Siap, order WannGZ segera diproses.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L29] User: 💛 Alhamdulillah, rezeki baru datang—order menunggu pengiriman untuk segera dicek Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: WannGZ Total pembayaran: Rp150.000 Dengan penuh semangat, yuk cek dan proses pesanannya ya Fahra. Tetap semangat dan teliti ya
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L30] Assistant: Notifikasi diterima. Segera cek dan proses order WannGZ.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L31] User: 💛 Alhamdulillah, rezeki baru datang—order menunggu pengiriman untuk segera dicek Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: WannGZ Total pembayaran: Rp150.000 Dengan penuh semangat, yuk cek dan proses pesanannya ya Fahra. Tetap semangat dan teliti ya
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L32] Assistant: Siap, pesanan WannGZ segera dicek dengan teliti lalu diproses.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L33] User: 💛 Alhamdulillah, rezeki baru datang—order menunggu pengiriman untuk segera dicek Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: WannGZ Total pembayaran: Rp150.000 Dengan penuh semangat, yuk cek dan proses pesanannya ya Fahra. Tetap semangat dan teliti ya
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L34] Assistant: Siap, segera cek dan proses pesanan WannGZ dengan teliti.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L35] User: 🌷 Kabar penuh syukur, ada order baru menunggu pengiriman—mohon segera dicek ya Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: WannGZ Total pembayaran: Rp150.000 Masyaallah, mohon dibantu proses order barunya ya Fahra. Semoga prosesnya mulus sampai selesa
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L36] Assistant: Siap, order WannGZ segera dicek dan diproses.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L37] User: @145544278208548 kick kang ryad
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L38] Assistant: Siap, Kang Ryad dikeluarkan dari grup.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L39] User: @145544278208548 kick kang ryad
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L40] Assistant: Muhun, permintaan kick Kang Ryad dicatat.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L41] User: @145544278208548 kick kang ryad
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L42] Assistant: Muhun, permintaan kick Kang Ryad dicatat.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L43] User: @145544278208548 kick kang ryad
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L44] Assistant: Muhun, permintaan kick Kang Ryad dicatat.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L45] User: @145544278208548 kick kang ryad
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L46] Assistant: Muhun, permintaan kick Kang Ryad dicatat.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L47] User: @145544278208548 kick kang ryad
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L48] Assistant: Muhun, permintaan kick Kang Ryad dicatat.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L49] User: @145544278208548 kick kang ryad
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L50] Assistant: Muhun, permintaan kick Kang Ryad dicatat.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L51] User: @145544278208548 kick kang ryad
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L52] Assistant: Muhun, permintaan kick Kang Ryad dicatat.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L53] User: 🌸 Syukur alhamdulillah, ada order baru yang perlu segera diproses Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iBOX second Indonesia Total pembayaran: Rp5.577.500 Terima kasih atas kesigapannya Fahra, yuk segera proses order ini. Semoga membawa rezeki 
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L54] Assistant: Siap, order iBOX second Indonesia segera dicek dan diproses dengan teliti. Semoga lancar sareng berkah.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L55] User: 🌸 Syukur alhamdulillah, ada order baru yang perlu segera diproses Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iBOX second Indonesia Total pembayaran: Rp5.577.500 Terima kasih atas kesigapannya Fahra, yuk segera proses order ini. Semoga membawa rezeki 
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L56] Assistant: Siap, order iBOX second Indonesia segera diparios dan diproses dengan teliti.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L57] User: 🌸 Syukur alhamdulillah, ada order baru yang perlu segera diproses Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iBOX second Indonesia Total pembayaran: Rp5.577.500 Terima kasih atas kesigapannya Fahra, yuk segera proses order ini. Semoga membawa rezeki 
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L58] Assistant: Siap, order iBOX second Indonesia segera dicek dan diproses.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L59] User: 🌸 Syukur alhamdulillah, ada order baru yang perlu segera diproses Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iBOX second Indonesia Total pembayaran: Rp5.577.500 Terima kasih atas kesigapannya Fahra, yuk segera proses order ini. Semoga membawa rezeki 
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L60] Assistant: Siap, order iBOX second Indonesia segera diparios dan diproses dengan teliti. Semoga lancar sareng berkah.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L61] User: 🌸 Syukur alhamdulillah, ada order baru yang perlu segera diproses Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iBOX second Indonesia Total pembayaran: Rp5.577.500 Terima kasih atas kesigapannya Fahra, yuk segera proses order ini. Semoga membawa rezeki 
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L62] Assistant: Siap, order iBOX second Indonesia segera dicek dan diproses dengan teliti.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L63] User: 🌸 Syukur alhamdulillah, ada order baru yang perlu segera diproses Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iBOX second Indonesia Total pembayaran: Rp5.577.500 Terima kasih atas kesigapannya Fahra, yuk segera proses order ini. Semoga membawa rezeki 
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L64] Assistant: Siap, order iBOX second Indonesia segera diparios dan diproses. Semoga lancar sareng berkah.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L65] User: 🌸 Syukur alhamdulillah, ada order baru yang perlu segera diproses Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iBOX second Indonesia Total pembayaran: Rp5.577.500 Terima kasih atas kesigapannya Fahra, yuk segera proses order ini. Semoga membawa rezeki 
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L66] Assistant: Siap, order iBOX second Indonesia segera dicek dan diproses dengan teliti. Semoga lancar sareng berkah.
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L67] User: 🌸 Syukur alhamdulillah, ada order baru yang perlu segera diproses Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iBOX second Indonesia Total pembayaran: Rp5.577.500 Terima kasih atas kesigapannya Fahra, yuk segera proses order ini. Semoga membawa rezeki 
+[wa-hrd/sessions/wa-hrd/6453ced5-32bf-4802-8e8f-bb99ee6d25d6.jsonl#L68] Assistant: Siap, order iBOX second Indonesia segera diparios dan diproses dengan teliti.

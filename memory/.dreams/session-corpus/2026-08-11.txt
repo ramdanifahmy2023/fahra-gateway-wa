@@ -1,0 +1,55 @@
+[wa-hrd/sessions/wa-hrd/acc50633-a86c-4889-9595-2a7850dd914e.jsonl#L6] Assistant: Selamat pagi, Kak. Ada yang bisa aku bantu terkait lowongan kerja?
+[wa-hrd/sessions/wa-hrd/acc50633-a86c-4889-9595-2a7850dd914e.jsonl#L7] User: Lokernya masih ada?
+[wa-hrd/sessions/wa-hrd/acc50633-a86c-4889-9595-2a7850dd914e.jsonl#L8] Assistant: Masih ada, Kak. Saat ini dibuka posisi Internet Marketing. Mangga isi formulir lengkap di https://karir.fahmyid.com, lalu konfirmasi lagi setelah terkirim, nya.
+[wa-hrd/sessions/wa-hrd/acc50633-a86c-4889-9595-2a7850dd914e.jsonl#L9] User: Lokernya masih ada?
+[wa-hrd/sessions/wa-hrd/acc50633-a86c-4889-9595-2a7850dd914e.jsonl#L10] Assistant: Masih ada, Kak, untuk posisi Internet Marketing. Pendaftarannya melalui https://karir.fahmyid.com, lalu kabari lagi setelah formulir terkirim, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L5] User: hallo ka, saya mau nanya terkait loker apakah masih ada
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L6] Assistant: Muhun, Kak. Saat ini masih tersedia lowongan untuk posisi Internet Marketing. Mangga daftar melalui https://karir.fahmyid.com, lalu kabari deui setelah formulirna atos dikirim, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L7] User: sudah ngisi
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L8] Assistant: Hatur nuhun, Kak. Mangga kirim nama lengkap sareng perkiraan waktu pengisian formulirna, nya. Data lamaran salajengna bakal diparios ku tim HRD.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L9] User: udin nganga, waktu pengiriman 11 agustus 2026
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L10] Assistant: Hatur nuhun, Kak Udin Nganga. Data lamaran sareng waktu pengisian 11 Agustus 2026 atos dicatet, teras bakal diparios ku tim HRD. Upami sesuai, Kakak bakal dihubungi kanggo tahap salajengna, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L11] User: alamat kantor na di mana ka?
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L12] Assistant: Punten, Kak Udin. Alamat kantor belum tersedia di informasi resmi anu tiasa dipastikan. Mangga diparios deui dina https://karir.fahmyid.com, atanapi antosan informasi ti tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L13] User: gaji khusus untuk makan apakah ada?
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L14] Assistant: Punten, Kak Udin. Rincian tunjangan makan atanapi benefit sanésna belum tiasa dipastikan melalui chat ieu. Detailna bakal dijelaskeun ku tim HRD sesuai posisi sareng tahapan seleksi, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L15] User: kalau sambil kuliah apakah bisa?
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L16] Assistant: Punten, Kak Udin. Kemungkinan sambil kuliah belum tiasa dipastikan, karena bergantung kana ketentuan posisi sareng jadwal kerja resmi. Detailna bakal dijelaskeun ku tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L17] User: kalau untuk yang berkeluarga apakah berkendala ga
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L18] Assistant: Punten, Kak Udin. Status berkeluarga bukan kendala selama memenuhi kriteria dan ketentuan posisi yang ditetapkan tim HRD. Detailna tiasa diparios dina https://karir.fahmyid.com, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L19] User: kalau mau nanya lebih lanjut tentang gaji ke siapa ya
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L20] Assistant: Punten, Kak Udin. Untuk informasi gaji, silakan ditanyakan langsung kepada tim HRD saat proses seleksi. Detail nominalna belum tiasa dipastikan melalui chat ieu, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L21] User: minta nomer hrd nya soalnya saya mau tau terlebih dahulu
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L22] Assistant: Punten, Kak Udin. Nomor kontak HRD khusus belum tersedia untuk dibagikan melalui chat ieu. Mangga sampaikan pertanyaan gaji saat proses seleksi; detailna bakal dijelaskeun ku tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L23] User: yang paling kosong divisi apa ya ka
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L24] Assistant: Punten, Kak Udin. Lowongan yang saat ini tersedia hanya posisi Internet Marketing. Jumlah kebutuhan per divisi belum dapat dipastikan, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L25] User: digital marketing na nn
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L26] Assistant: Muhun, Kak Udin. Lowongan yang tersedia nyaéta posisi Internet Marketing, anu patali sareng digital marketing. Jumlah kebutuhanana belum tiasa dipastikan ku tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L27] User: tras kerja na kumaha
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L28] Assistant: Punten, Kak Udin. Detail tugas sareng sistem kerja Internet Marketing belum tiasa dipastikan melalui chat ieu. Mangga diparios di https://karir.fahmyid.com, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L29] User: waktu jam kerja ti jam sabaraa
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L30] Assistant: Punten, Kak Udin. Jam kerja belum aya informasi resmi anu tiasa dipastikan ayeuna. Detailna engké dijelaskeun ku tim HRD nalika proses seleksi, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L31] User: tras kerja na kumaha
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L32] Assistant: Punten, Kak Udin. Detail tugas sareng sistem kerja posisi Internet Marketing belum tersedia secara resmi di chat ieu. Mangga diparios di https://karir.fahmyid.com; rincian salajengna bakal dijelaskeun ku tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L33] User: waktu jam kerja ti jam sabaraa
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L34] Assistant: Punten, Kak Udin. Jam kerja belum tiasa dipastikan ayeuna karena belum aya informasi resmi ti tim HRD. Rincianna bakal dijelaskeun saat proses seleksi, nya.
+[wa-hrd/sessions/wa-hrd/d7b94e86-c57f-4948-8f74-5844df29952c.jsonl#L5] User: السلام عليكم
+[wa-hrd/sessions/wa-hrd/d7b94e86-c57f-4948-8f74-5844df29952c.jsonl#L6] Assistant: وعليكم السلام، Kak. Ada yang bisa dibantu terkait lowongan kerja?
+[wa-hrd/sessions/wa-hrd/d7b94e86-c57f-4948-8f74-5844df29952c.jsonl#L7] User: Selamat sore
+[wa-hrd/sessions/wa-hrd/d7b94e86-c57f-4948-8f74-5844df29952c.jsonl#L8] Assistant: Selamat sore, Kak. Ada yang ingin ditanyakan terkait lowongan Internet Marketing?
+[wa-hrd/sessions/wa-hrd/d7b94e86-c57f-4948-8f74-5844df29952c.jsonl#L9] User: Lokernya masih ada?
+[wa-hrd/sessions/wa-hrd/d7b94e86-c57f-4948-8f74-5844df29952c.jsonl#L10] Assistant: Masih ada, Kak, untuk posisi Internet Marketing. Mangga isi formulir lengkap di https://karir.fahmyid.com, lalu kabari lagi setelah terkirim, nya.
+[wa-hrd/sessions/wa-hrd/ea1cd51c-fd90-4fa2-a1d0-121d7d447515.jsonl#L5] User: ya kak ada apa?
+[wa-hrd/sessions/wa-hrd/ea1cd51c-fd90-4fa2-a1d0-121d7d447515.jsonl#L6] Assistant: Hatur nuhun sudah mengisi formulir, Kak. Boleh kirim nama lengkap sesuai formulir? Datanya nanti diparios tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/ea1cd51c-fd90-4fa2-a1d0-121d7d447515.jsonl#L7] User: fahmi ramdani
+[wa-hrd/sessions/wa-hrd/ea1cd51c-fd90-4fa2-a1d0-121d7d447515.jsonl#L8] Assistant: Hatur nuhun, Kak Fahmi Ramdani. Boleh info perkiraan waktu pengisian formulirnya?
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L35] User: tras kerja na kumaha
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L36] Assistant: Punten, Kak Udin. Tugas sareng sistem kerjana belum aya informasi resmi anu tiasa dipastikan. Mangga diparios di https://karir.fahmyid.com; rincian lengkapna bakal dijelaskeun ku tim HRD saat proses seleksi, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L37] User: internet marketing na nn wae nya
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L38] Assistant: Internet Marketing biasana patali sareng promosi produk atanapi layanan lewat internet, Kak. Tapi tugas khusus di perusahaan ieu belum tiasa dipastikan; rincian resmina bakal dijelaskeun ku tim HRD saat proses seleksi, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L39] User: abi teu terang eta fokus na kamana
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L40] Assistant: Punten, Kak Udin. Fokus khususna memang belum aya informasi resmi, janten teu tiasa dipastikan ayeuna. Lamaran Kakak tos tercatat; tim HRD bakal ngajelaskeun rincian posisi upami dilanjutkeun ka tahap salajengna, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L41] User: bisa minta ke hrd nya?
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L42] Assistant: Punten, Kak Udin. Permintaan rincian fokus posisi tiasa diteruskeun ka tim HRD, tapi kontak khususna belum tersedia melalui chat ieu. Upami aya tindak lanjut seleksi, mangga tanyakeun langsung ka tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L43] User: abi teu terang eta fokus na kamana
+[wa-hrd/sessions/wa-hrd/d075a236-42a5-46d5-bda6-2c5f2875e16d.jsonl#L44] Assistant: Punten, Kak Udin. Fokus tugas Internet Marketing-na belum aya rincian resmi, jadi teu tiasa dipastikan ayeuna. Tim HRD bakal ngajelaskeun upami lamaran dilanjutkeun ka tahap seleksi, nya.

@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+    --background: 222 35% 7%;
+    --foreground: 210 20% 96%;
+    --card: 222 28% 10%;
+    --card-foreground: 210 20% 96%;
+    --primary: 145 72% 45%;
+    --primary-foreground: 144 75% 7%;
+    --secondary: 220 20% 15%;
+    --secondary-foreground: 210 16% 90%;
+    --muted: 220 18% 15%;
+    --muted-foreground: 215 13% 62%;
+    --accent: 219 22% 17%;
+    --accent-foreground: 210 20% 96%;
+    --destructive: 0 82% 66%;
+    --destructive-foreground: 222 35% 7%;
+    --border: 215 15% 42%;
+    --input: 215 13% 44%;
+    --ring: 145 72% 45%;
+    --success: 145 72% 45%;
+    --warning: 39 94% 56%;
+    --radius: 0.65rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    background: hsl(var(--background));
+  }
+
+  body {
+    @apply min-h-screen bg-background text-foreground antialiased;
+    font-family:
+      Inter,
+      ui-sans-serif,
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      sans-serif;
+  }
+
+  ::selection {
+    background: rgba(34, 197, 94, 0.25);
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border: 3px solid transparent;
+    border-radius: 999px;
+    background-clip: padding-box;
+    background-color: hsl(var(--border));
+  }
+}
+
+@layer components {
+  .data-table {
+    @apply w-full border-collapse text-left text-sm;
+  }
+
+  .data-table th {
+    @apply whitespace-nowrap border-b border-border bg-secondary/35 px-4 py-3 text-xs font-medium uppercase tracking-wider text-muted-foreground;
+  }
+
+  .data-table td {
+    @apply border-b border-border/60 px-4 py-3 align-middle;
+  }
+
+  .data-table tbody tr {
+    @apply transition-colors hover:bg-accent/35;
+  }
+}

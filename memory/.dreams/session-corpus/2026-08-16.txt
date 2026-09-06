@@ -1,0 +1,34 @@
+[wa-hrd/sessions/wa-hrd/37121f5e-4582-485f-a7ec-962d80d80ff2.jsonl#L5] User: Internet Marketing masih buka?
+[wa-hrd/sessions/wa-hrd/37121f5e-4582-485f-a7ec-962d80d80ff2.jsonl#L6] Assistant: Masih buka, Kak. Internet Marketing termasuk bagian dari Divisi Marketing Digital. Mangga daftar melalui https://karir.fahmyid.com, lalu kabari lagi setelah formulirnya terkirim, nya.
+[wa-hrd/sessions/wa-hrd/467a4817-a9b7-4d51-af9a-d3f47035fd9f.jsonl#L5] User: Masih ada lowongan?
+[wa-hrd/sessions/wa-hrd/467a4817-a9b7-4d51-af9a-d3f47035fd9f.jsonl#L6] Assistant: Masih ada, Kak. Saat ini dibuka lowongan Divisi Marketing Digital dan AI Content Creator. Mangga daftar di https://karir.fahmyid.com, lalu kabari lagi setelah formulirnya terkirim, nya.
+[wa-hrd/sessions/wa-hrd/4b93c27e-5e7d-4d6f-998d-3e13a3d7c09b.jsonl#L5] User: Marketing Digital kerjanya apa?
+[wa-hrd/sessions/wa-hrd/4b93c27e-5e7d-4d6f-998d-3e13a3d7c09b.jsonl#L6] Assistant: Untuk Divisi Marketing Digital, fokusnya mengelola produk marketplace, promo, voucher, campaign, memantau performa penjualan, serta membuat laporan sederhana. Detail SOP dan targetnya nanti dijelaskan saat proses resmi, ya Kak.
+[wa-hrd/sessions/wa-hrd/89048ead-69ac-4b89-bcd8-15b2682d363e.jsonl#L5] User: Harus bisa AI tools?
+[wa-hrd/sessions/wa-hrd/89048ead-69ac-4b89-bcd8-15b2682d363e.jsonl#L6] Assistant: Untuk posisi AI Content Creator, kemampuan memakai tools AI jadi nilai tambah, Kak. Kalau masih belajar tapi punya minat kuat, tetap boleh isi formulir di https://karir.fahmyid.com dan jelaskan kemampuan yang sudah dimiliki, nya.
+[wa-hrd/sessions/wa-hrd/915abb10-28c9-4d33-b0a9-09f04901fa16.jsonl#L5] User: Gajinya berapa?
+[wa-hrd/sessions/wa-hrd/915abb10-28c9-4d33-b0a9-09f04901fa16.jsonl#L6] Assistant: Untuk rincian gaji dan benefit akan dijelaskan langsung oleh tim HRD sesuai posisi dan tahapan seleksi, Kak. Nominalnya belum bisa dipastikan melalui chat ini, nya.
+[wa-hrd/sessions/wa-hrd/c2e0b571-00eb-497d-ae35-c65bdb14d419.jsonl#L5] User: ✨ Masyaallah, kabar manis—order baru sedang menunggu pengiriman untuk tim kita Grup: MITRA FAHRA Leader: Fahra @6281526021994 Nama toko: iPhone Station Store Total pembayaran: Rp6.587.783 Masyaallah, yuk segera dicek ya Fahra; ordernya siap diproses. Semoga membawa r
+[wa-hrd/sessions/wa-hrd/c2e0b571-00eb-497d-ae35-c65bdb14d419.jsonl#L6] Assistant: Siap, hatur nuhun informasinya. Order iPhone Station Store segera dicek di Akulaku Seller dan diproses dengan teliti, nya 🌷
+[wa-hrd/sessions/wa-hrd/dfd4f11b-9ae8-4bd1-8430-e5661843935f.jsonl#L5] User: Saya sudah isi form
+[wa-hrd/sessions/wa-hrd/dfd4f11b-9ae8-4bd1-8430-e5661843935f.jsonl#L6] Assistant: Hatur nuhun, Kak. Boleh kirim nama lengkap, posisi yang dilamar, dan kira-kira jam berapa formulirnya dikirim? Nanti datanya diparios ku tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/e23bb74c-688d-4674-9102-5cfe6ba2564d.jsonl#L5] User: AI Content Creator kerjanya apa?
+[wa-hrd/sessions/wa-hrd/e23bb74c-688d-4674-9102-5cfe6ba2564d.jsonl#L6] Assistant: AI Content Creator fokus membuat ide konten, caption atau script, visual brief, riset tren media sosial, serta produksi konten dengan bantuan tools AI. Detail teknis dan alur kerjanya nanti dijelaskan saat proses seleksi, ya Kak.
+[wa-hrd/sessions/wa-hrd/ff691ff8-3623-4db1-bc69-a18810314536.jsonl#L5] User: Saya perlu kirim OTP password KTP buat daftar?
+[wa-hrd/sessions/wa-hrd/ff691ff8-3623-4db1-bc69-a18810314536.jsonl#L6] Assistant: Tidak perlu, Kak. Pendaftaran tidak pernah meminta OTP, password, PIN, atau foto KTP lewat chat—jangan kirim data tersebut kepada siapa pun. Silakan daftar hanya melalui https://karir.fahmyid.com, dan kalau ada yang meminta data itu atau biaya atas nama perusaha
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L5] User: Hallo kak, perkenalkan aku Fuad, melihat loker di threads aku tertarik jadi Ai conten creator, pengalaman aku lebih banyak di dunia editing, jika kakak berkenan bisa aku kirimkan CV saya
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L6] Assistant: Hallo Kak Fuad, tentu boleh kirim CV-nya di sini. Supaya datanya tercatat dalam proses rekrutmen, mangga tetap isi formulir resmi di https://karir.fahmyid.com, lalu kabari lagi setelah berhasil dikirim, nya.
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L7] User: Oke siap kak
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L8] Assistant: Siap, Kak Fuad. Hatur nuhun, nanti kalau formulirnya sudah terkirim kabari lagi di sini, nya.
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L9] User: Siap kak 👌
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L10] Assistant: Hatur nuhun, Kak Fuad. Ditunggu konfirmasinya setelah formulir terkirim, nya 😊
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L11] User: sudah ya kak 🙏
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L12] Assistant: Hatur nuhun, Kak Fuad 🙏 Boleh kirim nama lengkap, posisi yang dilamar, dan kira-kira jam berapa formulirnya dikirim? Nanti datanya dibantu catat untuk diparios tim HRD, nya.
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L13] User: nama : Sugeng Fuad Afif posisi yang dilamar : AI Conten Creator Jam Aplay Formulir : 20.00 tambahan : contoh pernah membuat Video AI https://www.youtube.com/watch?v=xUxbwgBZk2g
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L14] Assistant: Hatur nuhun, Kak Sugeng Fuad Afif. Data pendaftaran dan contoh video AI-nya sudah dicatat untuk diparios lebih lanjut oleh tim HRD. Jika sesuai dengan kebutuhan perusahaan, Kakak akan dihubungi melalui kontak yang tercantum di formulir, nya.
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L15] User: baik kak terimaksih banyak 🙏
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L16] Assistant: Sama-sama, Kak Fuad. Hatur nuhun sudah mendaftar, mugia prosesna lancar, nya 🙏
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L17] User: amiiin bisamillah 🤲 hatur nuhun sekali lagi doanya 😊🙏
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L18] Assistant: Aamiin, sama-sama Kak Fuad 😊 Mugia diberikan hasil terbaik dan dilancarkan setiap prosesnya, nya.
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L19] User: amin amin ya Allah, bismillah 😊🤲
+[wa-hrd/sessions/wa-hrd/f941e7d7-fe4f-4069-822a-a45a379199ef.jsonl#L20] Assistant: Aamiin ya Allah, Kak Fuad. Tetap semangat dan mugia aya kabar terbaik, nya 😊
