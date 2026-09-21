@@ -1734,8 +1734,15 @@ function reviveDatabaseRow(rawRow, columns, metadata, uploadStoredNames) {
   const row = {};
   for (const column of columns) {
     const value = rawRow[column];
+    const dataType = metadata.get(column)?.dataType;
     row[column] =
-      metadata.get(column)?.dataType === "bytea" ? reviveValue(value) : value;
+      dataType === "bytea"
+        ? reviveValue(value)
+        : dataType === "json" || dataType === "jsonb"
+          ? value === null
+            ? null
+            : JSON.stringify(value)
+          : value;
   }
   if (row.queue_name === "whatsapp-outbound") {
     const payloadValue = asRecord(row.payload);
