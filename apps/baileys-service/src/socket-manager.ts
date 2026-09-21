@@ -3,6 +3,7 @@ import { createHash } from "node:crypto";
 import makeWASocket, {
   Browsers,
   DisconnectReason,
+  proto,
   STORIES_JID,
   areJidsSameUser,
   jidNormalizedUser,
@@ -696,7 +697,7 @@ export class WhatsAppSocketManager {
       ),
       markOnlineOnConnect: false,
       syncFullHistory: false,
-      shouldSyncHistoryMessage: () => false,
+      shouldSyncHistoryMessage,
       getMessage: async (key) => {
         if (!key.remoteJid || !key.id) {
           return undefined;
@@ -850,6 +851,10 @@ export class WhatsAppSocketManager {
     }
 
     this.connected = false;
+    const code = disconnectStatusCode(update.lastDisconnect?.error);
+    if (shouldCheckpointAuthOnDisconnect(code)) {
+      await this.auth.saveCreds(authEpoch);
+    }
     if (this.socket === socket) {
       this.socket = undefined;
     }
@@ -857,7 +862,6 @@ export class WhatsAppSocketManager {
       this.authEpoch = undefined;
     }
     this.auth.invalidate(authEpoch);
-    const code = disconnectStatusCode(update.lastDisconnect?.error);
     const reason = disconnectReasonName(code);
     const freshSessionRequired =
       code === DisconnectReason.loggedOut ||
@@ -1315,6 +1319,18 @@ export class WhatsAppSocketManager {
         );
       });
   }
+}
+
+export function shouldSyncHistoryMessage(
+  history: proto.Message.IHistorySyncNotification,
+): boolean {
+  return history.syncType !== proto.Message.HistorySyncType.FULL;
+}
+
+export function shouldCheckpointAuthOnDisconnect(
+  code: number | undefined,
+): boolean {
+  return code === DisconnectReason.restartRequired;
 }
 
 function normalizeOutboundJid(value: string): string {

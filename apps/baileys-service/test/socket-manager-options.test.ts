@@ -4,8 +4,11 @@ import test from "node:test";
 import {
   audioMessageContent,
   outboundSendOptions,
+  shouldCheckpointAuthOnDisconnect,
+  shouldSyncHistoryMessage,
   videoMessageContent,
 } from "../src/socket-manager.js";
+import { DisconnectReason, proto } from "@whiskeysockets/baileys";
 
 void test("quoted reply options preserve direct and group message identity", () => {
   const direct = outboundSendOptions(
@@ -50,5 +53,28 @@ void test("video and audio builders enforce safe MIME and voice-note rules", () 
   assert.throws(
     () => audioMessageContent({ bytes, mimeType: "audio/mpeg" }, true),
     /OGG Opus/,
+  );
+});
+
+void test("pairing restart checkpoints auth and keeps required LID history sync", () => {
+  assert.equal(
+    shouldCheckpointAuthOnDisconnect(DisconnectReason.restartRequired),
+    true,
+  );
+  assert.equal(
+    shouldCheckpointAuthOnDisconnect(DisconnectReason.loggedOut),
+    false,
+  );
+  assert.equal(
+    shouldSyncHistoryMessage({
+      syncType: proto.Message.HistorySyncType.FULL,
+    }),
+    false,
+  );
+  assert.equal(
+    shouldSyncHistoryMessage({
+      syncType: proto.Message.HistorySyncType.RECENT,
+    }),
+    true,
   );
 });
